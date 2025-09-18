@@ -27,6 +27,17 @@ yarn-error.log
 !.vscode/launch.json
 !.vscode/extensions.json
 .history/*
+# Ignore admin and user panels inside core
+/src/app/core/admin/
+/src/app/core/user/
+
+# Ignore environment files (often contain API URLs/keys)
+src/environments/environment*.ts
+
+# Node modules and build outputs
+node_modules/
+dist/
+
 
 # Miscellaneous
 /.angular/cache
