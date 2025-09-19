@@ -1,5 +1,4 @@
-[![photo-output.avif](https://i.postimg.cc/qvMsxWTx/photo-output.avif)](https://postimg.cc/qzS6kbgN)
-
+![Demo](https://github.com/user-attachments/assets/e86c1357-a73f-42d8-965d-90bb194e5a60)
 
 ## 🤖Introduction
 
